@@ -1,0 +1,6 @@
+# sftp config
+.ftpconfig
+ftpignore
+
+# config
+config.inc.php
